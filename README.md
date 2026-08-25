@@ -40,7 +40,7 @@ AI Integration · UI/UX Design · Data Analytics
 
 A modern, responsive bakery website featuring fresh cakes, brownies, and cookies. Built using **HTML, CSS, and JavaScript**, with a focus on responsive design, user-friendly navigation, and interactive web elements.
 
-Link:  (https://poulami-sudo.github.io/Mimo-s-Bite/)
+Link:  ( https://poulami-sudo.github.io/Mimo-s-Bite/)
 
 ### 💼 Personal Portfolio
 
