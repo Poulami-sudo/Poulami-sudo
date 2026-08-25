@@ -74,7 +74,7 @@ I'm continuously learning through **hands-on projects, practical development, an
 
 ## 📫 Connect With Me
 
-🔗 [LinkedIn](www.linkedin.com/in/poulami-nandi-b07901323)
+🔗 [LinkedIn](https://www.linkedin.com/in/poulami-nandi-b07901323)
 
 🌐 [Portfolio](https://poulami-sudo.github.io/My-Portfolio/)
 
