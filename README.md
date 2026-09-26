@@ -38,7 +38,7 @@ AI Integration · UI/UX Design · Data Analytics
 
 ### 🍰 Mimo's Bite
 
-A modern, responsive bakery website featuring fresh cakes, brownies, and cookies. Built using **HTML, CSS, and JavaScript**, with a focus on responsive design, user-friendly navigation, and interactive web elements.
+A modern, responsive bakery website featuring fresh cakes, brownies, and cookies. Built using **HTML, CSS, and JavaScript,React**, with a focus on responsive design, user-friendly navigation, and interactive web elements.
 
 Link:  ( https://poulami-sudo.github.io/Mimo-s-Bite/)
 
